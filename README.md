@@ -1,27 +1,38 @@
-# Hi 👋 Here is Tim, Leung Tsz Lok
----
-## Simple Intro 👋👋
-Hi, I am a junior software developer since 2021, I am learning development and enjoying the sense of success by solving problems. I also like to play video games, especially League of Legends.😂
+# Hi, I'm Tim Leung
 
-## Sth About Development 😜
-* 🥲 The language I learned in the first place: C++ (But the first one that actually learns better is JavaScript🤣
-* ❤️ The language I love: JavaScript (Relatively easy 
-* 🙃 The language I don't like: php (ｵﾒﾃﾞ波動拳! ( ｀o)=< )))))○
-* 🌱 The language I am currently learning: Still JavaScript
+**Automation & Integration Engineer | Python, APIs & Internal Tools**
 
-## About me
-* 🎮 Favorite Games: League of Legends, Apex Legends, Counter-Strike: Global Offensive
-* 📫 Contact Me: [Working Email](mailto:tlleung615@gmail.com) | [Private Email](mailto:lok60674211@gmail.com) 
-* 💬 Friends Talk: [Discord:SkaraGyozA#6028](https://discordapp.com/users/306065331674284032) | [Steam:SkaraGyozA](https://steamcommunity.com/id/SkaraGyozA)
-* 🔭 Interest in: Programming, Playing Video Games👍
+Based in Hong Kong. I build reliable automation, system integrations and internal engineering tools that turn operational workflows into maintainable software.
 
----
-## 🖥️ Skills
-### ⌨️ Langange
-> JavaScript, Python, Java, C++, C#, SQL
-### 🕹️ Frameworks
-> React, Redux, Material-UI, Bootstrap, JWT, Socket.io
-### 💽 Tools
-> Docker, MySQL, MariaDB, Firebase, Apache, Nginx, Git, GitHub Actions, Jest, AWS, GCP, Google Map Platform
-### 🌐 Networking, Systems and Technologies
-> Cloudflare, Proxy Management
+My recent work focuses on Python services, REST API integrations, workflow orchestration, monitoring and production reliability across enterprise platforms. I also have full-stack development experience with React, Node.js and SQL-backed applications.
+
+## What I Work On
+
+- Python automation and backend tooling
+- Jira, ServiceNow and third-party API integrations
+- Workflow orchestration with n8n and Airflow
+- Data pipelines, monitoring and operational dashboards
+- Reliable state handling, validation, retries, logging and testing
+
+## Currently Exploring
+
+- Practical GenAI applications
+- Retrieval-Augmented Generation (RAG)
+- Agentic workflows and AI-assisted development
+- Cloud architecture and deployment patterns
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, SQL  
+**Integration & Automation:** REST APIs, Jira, ServiceNow, n8n, Airflow  
+**Data & Observability:** PostgreSQL, MySQL/MariaDB, Elasticsearch, Grafana  
+**Application & Delivery:** React, Node.js, Docker, Git, AWS  
+
+## Outside Work
+
+I enjoy building useful tools, exploring new technologies and playing League of Legends.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/tsz-lok-leung/)
+- [Email](mailto:tlleung615@gmail.com)
